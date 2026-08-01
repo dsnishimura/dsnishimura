@@ -1,7 +1,7 @@
 
 ### Welcome, I am Thiago Nishimura  :coffee:
 
-Full stack software engineer @ BTG Pactual, São Paulo, Brazil
+I am passionate about building things and creating solutions. I have experience with data and software engineering. I believe technology has the power to change the world around us. Nothing motivates more than an interesting and positively impactful challenge!
 
 Reach out! :smiley:
 
